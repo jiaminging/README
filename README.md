@@ -23,6 +23,7 @@
 ### Week6
 ### Week7
 ### Week8
+  *   [教育元宇宙-心得分享](https://medium.com/@41071132h/%E6%95%99%E8%82%B2%E5%85%83%E5%AE%87%E5%AE%99-%E5%BF%83%E5%BE%97%E5%88%86%E4%BA%AB-3412f4b5d49f)
 ### Week9
 ### Week10
 ### Week11
