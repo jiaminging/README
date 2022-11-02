@@ -36,6 +36,6 @@
 # 作業連結區
  * ### [HW_01](https://youtu.be/CQz4uNhSHtU)
  * ### [HW_02](https://youtu.be/J1Dd8z3PpyU)
- * ### [HW_03(S3)](https://youtu.be/H1iMtToiQYo)
+ * ### [HW_03](https://youtu.be/H1iMtToiQYo)
 ---
 # 專題連結區
